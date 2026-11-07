@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# macOS
+.DS_Store
+__MACOSX/
+# Generated artefacts (re-created by the scripts)
+models/
+*.pkl
+*.joblib
+*.zip
+data/processed/
+outputs/predictions.csv
