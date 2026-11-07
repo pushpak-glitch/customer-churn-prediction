@@ -1,0 +1,49 @@
+,mean_abs_shap
+tenure,0.3863
+is_month_to_month,0.3484
+OnlineSecurity_No,0.2766
+Contract_Month-to-month,0.2756
+TechSupport_No,0.2091
+InternetService_Fiber optic,0.1913
+avg_monthly_spend,0.181
+MonthlyCharges,0.1802
+PaymentMethod_Electronic check,0.1576
+TotalCharges,0.1449
+Contract_Two year,0.1448
+PaperlessBilling_Yes,0.1267
+MultipleLines_No,0.1129
+OnlineBackup_No,0.0968
+num_addon_services,0.0678
+StreamingMovies_Yes,0.0497
+SeniorCitizen_Yes,0.0478
+Contract_One year,0.0451
+StreamingTV_Yes,0.0374
+Dependents_Yes,0.0373
+DeviceProtection_No,0.0282
+gender_Male,0.0218
+PhoneService_Yes,0.0099
+MultipleLines_No phone service,0.0095
+PaymentMethod_Mailed check,0.0083
+auto_pay,0.008
+Partner_Yes,0.008
+DeviceProtection_Yes,0.0062
+StreamingMovies_No,0.0062
+InternetService_DSL,0.0052
+PaymentMethod_Bank transfer (automatic),0.005
+PaymentMethod_Credit card (automatic),0.0045
+OnlineBackup_Yes,0.0043
+OnlineSecurity_Yes,0.0039
+TechSupport_Yes,0.0038
+tenure_group_25-48m,0.0033
+OnlineSecurity_No internet service,0.0032
+tenure_group_13-24m,0.0021
+tenure_group_49-72m,0.0005
+StreamingTV_No,0.0001
+TechSupport_No internet service,0.0001
+StreamingMovies_No internet service,0.0
+StreamingTV_No internet service,0.0
+InternetService_No,0.0
+MultipleLines_Yes,0.0
+OnlineBackup_No internet service,0.0
+tenure_group_0-12m,0.0
+DeviceProtection_No internet service,0.0
